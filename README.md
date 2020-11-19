@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-
+<script src="https://www.powr.io/powr.js?platform=embed"></script>
 <div class="powr-music-player" id="45df9343_1605807407"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>
 
 ### Connect with me:
