@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bibek Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bibek Spotify Playing" width="350" />](https://open.spotify.com/user/ofwxy6tdij08t24u3a7w0jv9u)
 
 ### Connect with me:
 
