@@ -8,10 +8,6 @@
 - 🥅 2021 Goals: I want to learn React
 - ⚡ Fun fact: I love to sketch and play basketball🏀
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Bibek Spotify Playing" width="350" />](https://open.spotify.com/user/ofwxy6tdij08t24u3a7w0jv9u)
-
 ### Connect with me:
 
 [<img align="left" alt="Beebake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
