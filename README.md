@@ -5,7 +5,7 @@
 - 🔭 I am creating so awesome project in my company 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for multi billion dollar idea
-- 🥅 2021 Goals: I want to learn React
+- 🥅 2022 Goals: I want to learn React
 - ⚡ Fun fact: I love to sketch and play basketball🏀
 
 ### Connect with me:
