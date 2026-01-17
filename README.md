@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bibek</h1>
 <h3 align="center">A passionate full-stack developer from Nepal</h3>
 
-### I'm a tech enthusiast
+### 👋 Hi, I'm a Tech Enthusiast
 
-- 🔭 I am creating so awesome project in **my company**
+* 🔭 Building impactful solutions at **my company** and actively working on my **hobby projects**
+* 🌱 Always learning — from backend systems to AI, DevOps, and everything in between 🚀
+* 👨‍💻 Explore my work and projects at **[bibekkhatri.com](https://bibekkhatri.com)**
+* 🎯 Goals: Grow into a strong **System Architect** and design scalable, reliable systems
+* 📄 Learn more about my experience and journey at **[bibekkhatri.com](https://bibekkhatri.com)**
+* ⚡ Fun fact: I love watching **anime** 🎌
 
-- 🌱 I’m currently learning **everything 🤣**
-
-- 👨‍💻 All of my projects are available at [bibekkhatri1115.com.np](bibekkhatri1115.com.np)
-
-- 🥅 2023 Goals: I want to be expert in **what i do**
-
-- 📄 Know about my experiences [bibekkhatri1115.com.np](bibekkhatri1115.com.np)
-
-- ⚡ Fun fact **I love to sketch and play basketball🏀**
 
 <a href="https://app.daily.dev/bibekkhatri"><img src="https://api.daily.dev/devcards/4de1fc5a710847a4a72a32397230c4a6.png?r=h0r" width="400" alt="Bibek Khatri's Dev Card"/></a>
 
